@@ -1,0 +1,7 @@
+{
+  "name": "contha",
+  "owner": { "name": "Contha", "url": "https://contha.com" },
+  "plugins": [
+    { "name": "contha", "source": "./", "description": "Run your personal and business money with Claude, from your own Contha books." }
+  ]
+}

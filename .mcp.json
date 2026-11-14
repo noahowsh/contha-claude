@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "contha": { "type": "http", "url": "https://app.contha.com/api/mcp" }
+  }
+}

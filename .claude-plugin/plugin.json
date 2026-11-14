@@ -1,0 +1,21 @@
+{
+  "name": "contha",
+  "version": "1.1.0",
+  "description": "Twenty-nine skills for running your personal and business money with Claude, answered from your own Contha books: check-ins, spending leaks, budgets, subscriptions, credit cards ranked on your spending, idle cash, goals, debt payoff, couples, quarterly taxes, deductions and the year-end package.",
+  "author": {
+    "name": "Contha",
+    "url": "https://contha.com"
+  },
+  "homepage": "https://contha.com/ai",
+  "repository": "https://github.com/noahowsh/contha-claude",
+  "license": "MIT",
+  "keywords": [
+    "personal finance",
+    "small business",
+    "bookkeeping",
+    "budget",
+    "schedule c",
+    "quarterly taxes",
+    "freelancer"
+  ]
+}
