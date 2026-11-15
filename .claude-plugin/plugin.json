@@ -7,6 +7,7 @@
     "url": "https://contha.com"
   },
   "homepage": "https://contha.com/ai",
+  "privacyPolicyUrl": "https://contha.com/privacy",
   "repository": "https://github.com/noahowsh/contha-claude",
   "license": "MIT",
   "keywords": [
@@ -17,5 +18,6 @@
     "schedule c",
     "quarterly taxes",
     "freelancer"
-  ]
+  ],
+  "icon": ".claude-plugin/icon.png"
 }
